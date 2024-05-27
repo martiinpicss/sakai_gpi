@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.sakaiproject.modi.ConfigurationTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.603 s - in org.sakaiproject.modi.ConfigurationTest

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.sakaiproject.util.ServerCookieTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.441 s - in org.sakaiproject.util.ServerCookieTest

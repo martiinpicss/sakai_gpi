@@ -1,0 +1,17 @@
+org/sakaiproject/util/PasswordCheckTest.class
+org/sakaiproject/util/EntityCollectionsTest.class
+org/sakaiproject/util/UTF8Test.class
+org/sakaiproject/util/WebTest.class
+org/sakaiproject/util/TimeSheetUtilTest.class
+org/sakaiproject/util/ToolListenerTest.class
+org/sakaiproject/hibernate/HibernateCriterionUtilsTest.class
+org/sakaiproject/util/comparator/AlphaNumericComparatorTest.class
+org/sakaiproject/util/comparator/GroupTitleComparatorTest.class
+org/sakaiproject/util/comparator/UserSortNameComparatorTest.class
+org/sakaiproject/util/TrustedLoginTokenTest.class
+org/sakaiproject/exception/PermissionExceptionTest.class
+org/sakaiproject/util/MapResourceBundleTest.class
+org/sakaiproject/util/ServerCookieTest.class
+org/sakaiproject/util/DateFormatterUtilTest.class
+org/sakaiproject/util/RequestFilterTest.class
+org/sakaiproject/util/IPAddrUtilTest.class

@@ -1,0 +1,7 @@
+org/sakaiproject/content/util/ZipContentUtil.class
+org/sakaiproject/util/Resource.class
+org/sakaiproject/util/UserNotificationPreferencesRegistrationImpl.class
+org/sakaiproject/util/ResourceLoader.class
+org/sakaiproject/util/NumberUtil.class
+org/sakaiproject/util/DummyMap.class
+org/sakaiproject/util/ResourceLoaderMessageSource.class
